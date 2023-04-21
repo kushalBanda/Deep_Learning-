@@ -5,7 +5,7 @@
 * We could totally wrong in predicting a stock's movement since, movement of a stock is independent of its movement in the past.
 
 
-# Project 2 - Fashion MNIST 
+# Project 2 - Fashion MNIST (NN Classification)
 * The Fashion MNIST dataset consists of 70,000 grayscale images of 28x28 pixels each, with 60,000 images for training and 10,000 images for testing.
 * Class_names: T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, Ankle boot
 ### Building a mulit-class Classification Model
