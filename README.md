@@ -19,3 +19,22 @@ For our multi-class classification model, we can use a similar architecture to o
 * Output layer activation = Softmax(not sigmoid)
 
 
+# Project 3 - Food Images Classification (CNN)
+### Building a CNN to find patterns in our images, more specifically we need a way to:
+
+* Load our images
+* Preprocess our images
+* Data Augmentation 
+* Build a CNN to find patterns in our images
+* Compile our CNN
+* Fit the CNN to our training data
+
+ Adjust the model hyperparameters (to beat the baseline/ reduce overfitting)
+Fixing overfitting by....
+> **Getting more data** - Having more data gives a model more opportunity to learn diverse patterns...
+
+> **Simplify the model** - If our current model is overfitting the data, it may be too complicated of a model, one way to simplify a model is to: reduce number of layers or reduce number of hidden units in layers
+
+> **Use data augmentation** - data augmentation manipulates the training data in such a way to add more diversity to it (without altering the orginal data)
+
+> **Use transfer learning** - Transfer Learning leverages the patterns another model has learned on similar data to your own and allows you to use those patterns on your own dataset. 
